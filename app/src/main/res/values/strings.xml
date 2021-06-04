@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мой дневник</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="search_notes">Искать заметки</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_subtitle">Подзаголовок</string>
+    <string name="type_note_here">Здесь должен быть текст...</string>
+    <string name="miscellaneous">Опции</string>
+    <string name="pick_color">Выберите цвет</string>
+    <string name="add_image">Добавить изображение</string>
+    <string name="add_url">Добавить ссылку</string>
+    <string name="enter_url">Введите ссылку</string>
+    <string name="add">ДОБАВИТЬ</string>
+    <string name="cancel_dialog">ОТМЕНА</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="are_you_sure">Вы точно хотите удалить эту заметку?</string>
+</resources>
